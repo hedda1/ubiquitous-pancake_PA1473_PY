@@ -1,7 +1,11 @@
 # -- Replace with the name of your project --
 
 ## Members of the group
--- Replace with student information --
+* Maja Svensson mass17@student.bth.se
+* Alexandra Flymén
+* Hedda Nordstedt
+* Petra Kawmi
+* Emma Hjerpe
 * Adam Svensson adv@bth.se
 * Albin Persson alo@bth.se
 
