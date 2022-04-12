@@ -6,8 +6,7 @@
 * Hedda Nordstedt
 * Petra Kawmi
 * Emma Hjerpe
-* Adam Svensson adv@bth.se
-* Albin Persson alo@bth.se
+
 
 ## Project Description
 -- Place a short description of the project so that the reader know what the goal of the repository is --
